@@ -1,0 +1,2 @@
+# CSGO
+server of csgo
